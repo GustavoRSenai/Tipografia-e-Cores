@@ -1,4 +1,4 @@
-## ✏️Projetos HTML✏️
+## ✏️Tipografia e Cores✏️
 
 Repositório focado em tipografia e cores
 
