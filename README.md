@@ -14,10 +14,11 @@ O intuito da atividade é comparar um site que segue as definições corretas de
 
 #
 
-#### Site que não segue os requisitos. ####
+### Site que não segue os requisitos. ###
 
 <img align="left" height="200" src="https://github.com/user-attachments/assets/d9d128e3-1f49-48cc-963f-5a64335e3176" />
 <img align="center" height="200" src="https://github.com/user-attachments/assets/5f2d496e-26a4-4578-9456-a26efb6f0cf9" />
+
 ###
 O site só ignora as questões de proximidade pois os poucos textos que possuem estão colados. O alinhamento do site está justificado porém em alguns textos não possuem o alinhamento correto.
 ###
@@ -38,10 +39,11 @@ E para melhorar eu deixaria as imagens de tamanhos iguais e seguiria o mesmo pad
 
 #
 
-#### Site que segue os requisitos ####
+### Site que segue os requisitos. ###
 
 <img align="left" height="200" src="https://github.com/user-attachments/assets/f18ee968-551d-4a11-9b8a-5d87faafbdcc" />
 <img align="center" height="200" src="https://github.com/user-attachments/assets/69e4aa4c-12c8-4062-9aab-907af3f4c082" />
+
 ###
 O site atende as questões de proximidade pois os textos que possuem estão com o espaçamento adequado. O alinhamento do site está justificado.
 ###
